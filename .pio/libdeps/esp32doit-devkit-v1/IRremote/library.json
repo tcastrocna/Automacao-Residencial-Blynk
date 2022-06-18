@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Embedded Class - Final Project1",
+        "url": "https://os.mbed.com/teams/Embedded-Class-Final-Project1/"
+    },
+    "build": {
+        "builder": "MbedLibBuilder"
+    },
+    "description": "Infrared remote library for Arduino: send and receive infrared signals with multiple protocolsPort from Arduino-IRremote https://github.com/z3t0/Arduino-IRremote",
+    "examples": [
+        "https://os.mbed.com/teams/Embedded-Class-Final-Project1/code/mbed-os-example-FinalReal_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ir",
+        "remote"
+    ],
+    "name": "IRremote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Embedded-Class-Final-Project1/code/IRremote/"
+    },
+    "version": "0.0.0+sha.9d9b1e1f9b1b"
+}
