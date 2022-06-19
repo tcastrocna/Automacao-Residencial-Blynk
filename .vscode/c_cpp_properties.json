@@ -8,11 +8,11 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/include",
-                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/src",
-                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/.pio/libdeps/esp32doit-devkit-v1/ESP32-IRremote",
-                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/.pio/libdeps/esp32doit-devkit-v1/AceButton/src",
-                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/.pio/libdeps/esp32doit-devkit-v1/Blynk/src",
+                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/include",
+                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/src",
+                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/.pio/libdeps/esp32doit-devkit-v1/ESP32-IRremote",
+                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/.pio/libdeps/esp32doit-devkit-v1/AceButton/src",
+                "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/.pio/libdeps/esp32doit-devkit-v1/Blynk/src",
                 "C:/Users/tiago/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/tiago/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/config",
                 "C:/Users/tiago/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
@@ -220,11 +220,11 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/include",
-                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/src",
-                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/.pio/libdeps/esp32doit-devkit-v1/ESP32-IRremote",
-                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/.pio/libdeps/esp32doit-devkit-v1/AceButton/src",
-                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/automacaoResidencialBlynk/.pio/libdeps/esp32doit-devkit-v1/Blynk/src",
+                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/include",
+                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/src",
+                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/.pio/libdeps/esp32doit-devkit-v1/ESP32-IRremote",
+                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/.pio/libdeps/esp32doit-devkit-v1/AceButton/src",
+                    "c:/Users/tiago/OneDrive/Documentos/PlatformIO/Projects/smartHomeESP32v1/.pio/libdeps/esp32doit-devkit-v1/Blynk/src",
                     "C:/Users/tiago/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/tiago/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/config",
                     "C:/Users/tiago/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
