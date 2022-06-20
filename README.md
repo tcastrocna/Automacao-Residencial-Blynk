@@ -5,8 +5,7 @@ Neste Projeto utiliza-se um módulo relé para ligar/desligar os equipamentos el
 
 **Bibliotecas Utilizadas:**
 
-🗂️
+🗂️Blynk - [version 1.0.1⬇️](https://downloads.arduino.cc/libraries/github.com/blynkkk/Blynk-1.0.1.zip)
 
 🗂️IRremote - [version 3.6.1⬇️](https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-3.6.1.zip)
 
-🗂️
