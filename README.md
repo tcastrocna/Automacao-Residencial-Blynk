@@ -6,8 +6,3 @@ Neste Projeto utiliza-se um módulo relé para ligar/desligar os equipamentos el
 
 As bibliotecas já estão disponivel na pasta 📂 [.pio/libdeps/esp32doit-devekit-v1/](https://github.com/tcastrocna/smartHomeESP32v1/tree/main/.pio/libdeps/esp32doit-devkit-v1), Clone o projeto e abra no [VS Code](https://code.visualstudio.com/) com a plataforma [Platformio](https://platformio.org/platformio-ide) instalada. As bibliotecas já instalada no projeto são as compartiveis com o mesmo, caso altere as bibliotecas por versões atualizadas, certifique-se de atualizar o código principal.
 
-Versões das bibliotecas:
-
-  🗂️IRremote version=3.7.0
-  
-  🗂️Blynk  version=1.0.1
