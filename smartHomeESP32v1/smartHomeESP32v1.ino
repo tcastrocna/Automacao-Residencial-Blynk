@@ -5,9 +5,9 @@
 BlynkTimer timer1;
 
 //Auth Token da plataforma Blynk e nome e senha da rede WiFi local.
-#define AUTH "-BTvuCe74-dSR8RMtK8TMxg7fCwqr4_Q"    
-#define WIFI_SSID "Motoe"                         
-#define WIFI_PASS "1A2b3c4d"                     
+#define AUTH "AUTH-TOKEN-BLYNK"    
+#define WIFI_SSID "NOME-WIFI"                         
+#define WIFI_PASS "SENHA-WIFI"                     
 
 //Definir os pinos de saidas para os relés
 #define pinoRele1 18  //Iluminação 1
