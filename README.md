@@ -1,5 +1,5 @@
-# smartHomeESP32v1
-Projeto Simples de automação residencial utilizando a plataforma Blynk. 
+# smartHomeV1
+Projeto Simples de automação residencial utilizando o chip ESP32 e plataforma Blynk. 
 Nesse Projeto utiliza-se a plataforma [Blynk](https://blynk.io/), é possivel controlar  os relés atrves do app blynk e  botões físicos ou controle remoto.
 Neste Projeto utiliza-se um módulo relé para ligar/desligar os equipamentos eletronicos de um ambiente, no caso o quarto, sendo controle de iluminação, ventilador e tomada.
 
