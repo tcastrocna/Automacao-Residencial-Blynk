@@ -1,11 +1,10 @@
 # Automação Residencial com a plataforma Blynk
-Projeto Simples de automação residencial utilizando o chip ESP32 e plataforma Blynk. 
-Nesse Projeto utiliza-se a plataforma [Blynk](https://blynk.io/), é possivel controlar  os relés através do app blynk, botões físicos ou controle remoto.
-Neste Projeto utiliza-se um módulo relé para ligar/desligar os equipamentos eletronicos de um ambiente, no caso o quarto, sendo controle de iluminação, ventilador e tomada.
+Este código permite controlar dispositivos utilizando o chip ESP32 e plataforma Blynk, através de módulo relé. 
+- Nesse Projeto utiliza-se a plataforma [Blynk](https://blynk.io/).
+- É possivel controlar  os relés através do app blynk, botões físicos ou controle remoto.
 
-**Bibliotecas Utilizadas:**
 
-🗂️Blynk - [version 1.0.1⬇️](https://downloads.arduino.cc/libraries/github.com/blynkkk/Blynk-1.0.1.zip)
-
-🗂️IRremote - [version 3.6.1⬇️](https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-3.6.1.zip)
+**🗂️Bibliotecas Utilizadas:**
+- 📁Blynk - [version 1.0.1⬇️](https://downloads.arduino.cc/libraries/github.com/blynkkk/Blynk-1.0.1.zip)
+- 📁IRremote - [version 3.6.1⬇️](https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-3.6.1.zip)
 
