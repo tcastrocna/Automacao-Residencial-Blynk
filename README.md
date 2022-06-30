@@ -3,6 +3,7 @@
 **💬 Plataformas Utilizada:**
 - 🖥️ Chip Esp32
 - 🌍 [Blynk v0.1](https://blynk.io/)
+- 🤖 [Blynk App](https://play.google.com/store/apps/details?id=cc.blynk&hl=pt-PT)
 
 **🎚️ Controles**
 - 📱 Controle através de aplicativo Blynk no Smartphone.
